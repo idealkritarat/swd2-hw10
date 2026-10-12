@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Deployed on Vercel: TBD
+Deployed on Vercel: [https://swd2-hw10.vercel.app/](https://swd2-hw10.vercel.app/)
 
 Continues A09 with NextAuth sign-in against the assignment backend.
 
